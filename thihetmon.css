@@ -1,0 +1,76 @@
+* {
+box-sizing: border-box;
+    margin: 0;
+}
+#nb{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+.ul1{
+    display: flex;
+    list-style: none;
+}
+.ul1 li{
+   padding: 20px;
+
+}
+#abb{
+   margin: 30px;
+}
+#ab img{
+    width: 100%;
+}
+#abc{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    flex-wrap: wrap;
+
+}
+#item .item1 img{
+   object-fit: cover;
+    width: 300px;
+    height: 500px;
+}
+
+
+#name{
+    text-align: center;
+    margin: 50px;
+}
+#item{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+#ft1{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px;
+    flex-wrap: wrap;
+}
+
+#ft12{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 40px;
+
+}
+ul{
+    list-style: none;
+}
+#ft2{
+    text-align: center;
+}
+#ft11 h3{
+    margin: 20px;
+}
+#ft12 div ul{
+    margin: 30px;
+}
+
+.ad1{
+    margin: 30px;
+}
